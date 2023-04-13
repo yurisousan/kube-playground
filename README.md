@@ -8,6 +8,7 @@ Table of Content
 
 A small playground to experiment or play with Kubernetes on multiple Vagrant Ubuntu `ubuntu/bionic64` instances. So do not use this as a base for production like deployments (Kubespray for example).
 
+
 ## Requirements
 
 Please make sure the following is installed before using this repo:
